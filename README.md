@@ -1,8 +1,6 @@
 # 🚀 RedaHustlzTV
 
-![Channel Banner](https://raw.githubusercontent.com/yassinreda101/RedaHustlzTV/main/assets/channel_banner.png)
-
-Welcome to RedaHustlzTV, the official GitHub repository for all the coding projects featured on my YouTube channel, [RedaHustlz TV](https://www.youtube.com/c/RedaHustlzTV)! 🎬💻
+Welcome to RedaHustlzTV, the official GitHub repository for all the coding projects featured on my YouTube channel, [RedaHustlz TV](https://www.youtube.com/@RedaHustlzTV)! 🎬💻
 
 This repository serves as a hub for tech projects, where I build, break, and explore everything from game development and AI assistants to robotics and automation. Whether you're a beginner looking to learn or an experienced developer looking for inspiration, there's something here for you!
 
@@ -50,10 +48,8 @@ I welcome contributions, suggestions, and feedback! Feel free to:
 
 ## 📞 Connect With Me
 
-- [YouTube Channel](https://www.youtube.com/c/RedaHustlzTV)
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Personal Website](https://yourwebsite.com)
+- [YouTube Channel](https://www.youtube.com/@RedaHustlzTV)
+- [LinkedIn](www.linkedin.com/in/yassinreda101)
 
 ## 📄 License
 
