@@ -12,18 +12,15 @@ I've created a visual programming roadmap to help guide you through your learnin
 
 ## What's Covered in This Roadmap
 
-- **Fundamental Programming Concepts**: Variables, data types, control structures, and functions
 - **Popular Programming Languages**: Where to start and how they compare
 - **Specialization Paths**: Web development, mobile apps, game development, data science, etc.
 - **Essential Tools**: IDEs, version control, package managers
-- **Learning Resources**: Recommended books, courses, and websites
-- **Project-Based Learning**: Ideas for projects to build your skills
 
 ## How to Use This Roadmap
 
 1. Start at the beginning with fundamental concepts
 2. Choose a path based on your interests
-3. Focus on one language at first
+3. Focus on one language/tool/framework/stack at first
 4. Build projects to apply what you've learned
 5. Expand your knowledge incrementally
 
