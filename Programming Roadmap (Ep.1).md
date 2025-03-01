@@ -27,7 +27,7 @@ I've created a visual programming roadmap to help guide you through your learnin
 ## Related Content
 
 - Check out our [Tetris Project](/tetris) for a practical example of C programming fundamentals
-- Subscribe to [RedaHustlzTV YouTube channel](https://www.youtube.com/c/RedaHustlzTV) for video tutorials
+- Subscribe to [RedaHustlzTV YouTube channel](https://www.youtube.com/@RedaHustlzTV) for video tutorials
 
 ## Feedback and Contributions
 
