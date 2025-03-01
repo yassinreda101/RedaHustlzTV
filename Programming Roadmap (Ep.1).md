@@ -1,4 +1,4 @@
-# Programming Roadmap (Ep. 1)
+# Programming Roadmap (Ep.1)
 
 ## Breaking Down the World of Programming
 
